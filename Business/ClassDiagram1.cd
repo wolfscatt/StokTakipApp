@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Business.Business.Conrete.ProductManager" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAQAABAAQAEAAAAAAEAAAAAQgAAAAAAAAA=</HashCode>
+      <FileName>Business\Conrete\ProductManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Business.DependencyResolvers.Ninject.InstanceFactory" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyResolvers\Ninject\InstanceFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.DependencyResolvers.Ninject.BusinessModule" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyResolvers\Ninject\BusinessModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.Utilities.ValidationTool" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilities\ValidationTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.ValidationRules.FluentValidation.ProductValidator" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValidationRules\FluentValidation\ProductValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Business.Business.Abstract.IProductService" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAABAAQAEAAAAAAEAAAAAQgAAAAAAAAA=</HashCode>
+      <FileName>Business\Abstract\IProductService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
